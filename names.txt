@@ -1,2 +1,3 @@
-boss,mohamadroki@wisc.edu,Mohamad Roki,Aleeya
+role,NetID,LastName,FirstName
+boss,mohamadroki,Mohamad Roki,Aleeya
 employee,narsani,arsani,nur
